@@ -42,7 +42,7 @@ class View {
 $vasya = new Vasya('Vasya');
 $petya = new Petya('Petya');
 $view = new View($vasya);
-$view->render();
+//$view->render();
 
 
 

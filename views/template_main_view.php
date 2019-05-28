@@ -14,7 +14,7 @@
 	<h1>My site</h1>
 	<nav>
 	    <ul>
-		<li><a href="/">Home</a></li>
+		<li><a href="/home">Home</a></li>
 		<li><a href="/news">Tasks</a></li>
 		<li><a href="#">Questions</a></li>
 		<li><a href="#">Gallery</a></li>
